@@ -1,2 +1,2 @@
 # Family-Tree
-Using binary trees to create a family tree
+This project uses various data structures to create a family tree using an input file, in order to answer various questions related to the input
