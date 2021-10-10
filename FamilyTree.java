@@ -1,10 +1,3 @@
-/**
- * @name:Rachel Minkowitz
- * @since: 07/01/2021
- * @version: 2.0
- * @Description: CISC 3130 Homework 4
- * This program reads in a family tree and answers various questions regarding the family
- */
 import java.io.File;
 import java.io.PrintStream;
 import java.util.ArrayList;
